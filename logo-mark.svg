@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 76" role="img" aria-labelledby="title desc">
+  <title id="title">Monograma EF</title>
+  <desc id="desc">Emblema de Excelencia Funeraria con las iniciales EF dentro de un arco.</desc>
+  <g fill="none" stroke="#536143" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9 68V36C9 18.88 20.64 7 36 7s27 11.88 27 29v32" stroke-width="2"/>
+    <path d="M14.5 68V36c0-13.78 9.08-23.5 21.5-23.5S57.5 22.22 57.5 36v32" stroke-width=".8" opacity=".48"/>
+    <path d="M5 68h62" stroke-width="2"/>
+    <path d="M36 22v34M22 24h14M22 39h12M22 54h14M36 24h15M36 39h12" stroke-width="2.6"/>
+  </g>
+  <circle cx="36" cy="63" r="2" fill="#a38b5d"/>
+</svg>
